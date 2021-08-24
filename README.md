@@ -1,1 +1,1 @@
-# IBM-Watson
+# My projects at IBM Wason Studio
